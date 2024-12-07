@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on </title>
+    <link>http://localhost:1313/tags/development/</link>
+    <description>Recent content in Development on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/sobre/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sobre/</guid>
+      <description>&lt;h2 id=&#34;teste&#34;&gt;teste&lt;/h2&gt;&#xA;&lt;p&gt;By Giseldo Neo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

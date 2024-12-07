@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artigos on </title>
+    <link>http://localhost:1313/tags/artigos/</link>
+    <description>Recent content in Artigos on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/artigos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artigo Review - Simulando a Realidade</title>
+      <link>http://localhost:1313/posts/2024-11-26-simulando-realidade/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-26-simulando-realidade/</guid>
+      <description>&lt;h2 id=&#34;introdução&#34;&gt;Introdução&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=N3WOqh8gg1c&#34; target=&#34;_blank&#34;&gt;Paula Bernardes&lt;/a&gt;, no seu canal do youtube, comentou um artigo publicado no &lt;a href=&#34;https://arxiv.org/&#34; target=&#34;_blank&#34;&gt;arxiv&lt;/a&gt; (um repositório de artigos aberto) com o título &lt;a href=&#34;https://arxiv.org/abs/2411.10109&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Generative Agent Simulations of 1,000 People&amp;rdquo;&lt;/a&gt; (&lt;strong&gt;Figura 1&lt;/strong&gt;). Este artigo explora o desenvolvimento e a aplicação de uma nova arquitetura de agentes generativos que simulam atitudes e comportamentos de indivíduos reais. Foi criado uma plataforma para testar intervenções, desenvolver teorias e aprofundar a compreensão do comportamento individual e coletivo (&lt;strong&gt;Figura 2&lt;/strong&gt;).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
