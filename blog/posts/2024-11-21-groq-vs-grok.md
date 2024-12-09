@@ -12,10 +12,6 @@ aside: true
 sidebar: false
 layout: doc
 
-prev:
-   text: 'Voltar'
-next:
-   text: 'Próximo'
 ---
 
 # Groq vs Grok

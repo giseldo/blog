@@ -1,7 +1,6 @@
-import { defineConfig } from 'vitepress'
+import { withMermaid } from "vitepress-plugin-mermaid";
 
-// https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withMermaid({
   
   base: '/blog/',
   lang: 'br',
@@ -45,6 +44,10 @@ export default defineConfig({
     
     search: {
       provider: 'local'
+    },
+
+    mermaid:{
+      //mermaidConfig !theme here works for ligth mode since dark theme is forced in dark mode
     }
 
   }

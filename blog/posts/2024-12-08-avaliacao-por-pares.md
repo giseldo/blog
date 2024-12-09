@@ -1,6 +1,10 @@
 ---
 title: Avaliação por pares
 
+mermaidTheme: forest
+
+mermaid: true
+
 editLink: true
 aside: false
 sidebar: false
@@ -22,21 +26,21 @@ O processo de *avaliação por pares* (em inglês peer review) tem o objetivo de
 
 De forma geral, o processo ocorre em várias etapas:
 
-```mmd
+> Figura 1 - Processo de avaliação por pares
+```mermaid
 flowchart TD
-
-    A[Submissão do Manuscrito] --> B[Triagem Inicial (Editor)]
-    B -->|Aprovado| C[Seleção de Revisores]
-    B -->|Rejeitado| J[Artigo Rejeitado]
-
+    A[Submissão do Manuscrito] --> B[Triagem Inicial pelo Editor]
+    B --> |Aprovado| C[Seleção de Revisores]
+    B --> |Rejeitado| J[Artigo Rejeitado]
     C --> D[Revisão por Pares]
-    D --> E[Pareceres (Aceitar / Revisão / Rejeitar)]
-    E -->|Aceitar| F[Publicação]
-    E -->|Rejeitar| J[Artigo Rejeitado]
-    E -->|Revisão Solicitada| G[Autores Fazem Revisões]
+    D -->  E[Pareceres  / Rejeitar]
+    E --> |Aceitar| F[Publicação]
+    E --> |Rejeitar| J[Artigo Rejeitado]
+    E --> |Revisão Solicitada| G[Autores Fazem Revisões]
     G --> H[Reenvio do Manuscrito]
     H --> C
 ```
+> Fonte: o Autor
 
 **Submissão do manuscrito:**  
    Após concluir sua pesquisa, os autores organizam seus resultados em um artigo científico e o submetem a um periódico especializado. Neste ponto, o texto ainda não foi aprovado nem revisado, apenas recebido pela equipe editorial.

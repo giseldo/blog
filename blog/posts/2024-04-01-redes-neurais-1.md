@@ -7,10 +7,6 @@ aside: true
 sidebar: false
 layout: doc
 
-prev:
-   text: 'Voltar'
-next:
-   text: 'Próximo'
 ---
 
 # Redes Neurais (#1)

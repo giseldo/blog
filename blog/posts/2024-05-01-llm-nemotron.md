@@ -11,10 +11,6 @@ aside: true
 sidebar: false
 layout: doc
 
-prev:
-   text: 'Voltar'
-next:
-   text: 'Próximo'
 ---
 
 # Nemotron LLM 70B - Um primeiro contato
