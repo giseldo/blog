@@ -102,3 +102,5 @@ Curtiu? Deixei um comentário. Até o próximo post.
 <center>. . .</center>
 
 _<center>Até o próximo artigo</center>_
+
+<Layout />

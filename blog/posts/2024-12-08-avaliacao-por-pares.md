@@ -79,3 +79,5 @@ Em resumo, o processo de revisão por pares é um diálogo construtivo entre aut
 <center>. . .</center>
 
 _<center>Até o próximo artigo</center>_
+
+<Layout />

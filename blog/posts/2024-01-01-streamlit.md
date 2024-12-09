@@ -85,6 +85,9 @@ Em resumo, o Streamlit é uma ferramenta poderosa para criar dashboards e visual
 <center>. . .</center>
 
 _<center>Até o próximo artigo</center>_
+
+<Layout />
+
 <!--
 <div id="disqus_thread"></div>
 <script>

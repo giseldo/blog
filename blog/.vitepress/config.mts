@@ -1,7 +1,7 @@
 import { withMermaid } from "vitepress-plugin-mermaid";
 
 export default withMermaid({
-  
+
   base: '/blog/',
   lang: 'br',
   title: "Neo Blog",

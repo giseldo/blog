@@ -92,3 +92,5 @@ Heurísticas são ferramentas indispensáveis na aprendizagem de máquina porque
 <center>. . .</center>
 
 _<center>Até o próximo artigo</center>_
+
+<Layout />

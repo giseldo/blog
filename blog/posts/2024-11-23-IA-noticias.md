@@ -40,3 +40,5 @@ A inteligência artificial emergiu como uma ferramenta fundamental no âmbito em
 <center>. . .</center>
 
 _<center>Até o próximo artigo</center>_
+
+<Layout />

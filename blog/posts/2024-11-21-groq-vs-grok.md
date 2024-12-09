@@ -97,3 +97,5 @@ Apesar das semelhanças nos nomes, Groq e Grok são soluções de IA com propós
 <center>. . .</center>
 
 _<center>Até o próximo artigo</center>_
+
+<Layout />
