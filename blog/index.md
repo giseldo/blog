@@ -2,8 +2,12 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-pageClass: custom-page-class
-
+mailchimp:
+  action: https://dev.us12.list-manage.com/subscribe/post?u=59874b4d6910fa65e724a4648&amp;id=613837077f
+  title: Want similar content?
+  byline: Signup and we will send you a weekly blog digest of similar content to keep you satiated.
+  button: Sign me up!
+  
 hero:
   name: "Neo Blog"
   text: ""
@@ -64,3 +68,5 @@ features:
     <p>Est commodi iusto et alias deleniti sed voluptatibus tempora est reprehenderit autem...</p>
 </a>
 -->
+
+
