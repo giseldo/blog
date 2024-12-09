@@ -6,8 +6,11 @@ editLink: true
 aside: true
 sidebar: false
 layout: doc
-prev: true
-next: true
+
+prev:
+   text: 'Voltar'
+next:
+   text: 'Próximo'
 ---
 
 # Regressão Linear (1#)

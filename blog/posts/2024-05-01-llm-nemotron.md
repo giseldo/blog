@@ -10,8 +10,11 @@ editLink: true
 aside: true
 sidebar: false
 layout: doc
-prev: true
-next: true
+
+prev:
+   text: 'Voltar'
+next:
+   text: 'Próximo'
 ---
 
 # Nemotron LLM 70B - Um primeiro contato

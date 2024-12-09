@@ -29,6 +29,7 @@ export default defineConfig({
           { text: 'Regressão linear (#1)', link: '/posts/2024-03-01-regressao-linear-1' },
           { text: 'Aprendizagem de máquina (#2) - Heurísticas', link: '/posts/2024-02-02-am-2-heuristicas' },
           { text: 'Aprendizagem de máquina (#1)', link: '/posts/2024-02-01-am-1' },
+          { text: 'Streamlit (#1)', link: '/posts/2024-01-01-streamlit' },
         ]
       }
     ],

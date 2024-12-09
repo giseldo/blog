@@ -5,6 +5,11 @@ editLink: true
 aside: false
 sidebar: false
 layout: doc
+
+prev:
+   text: 'Voltar'
+next:
+   text: 'Próximo'
 ---
 
 # Avaliação por pares
