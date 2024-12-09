@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  
+  base: '/cursos/',
+  lang: 'br',
   title: "Neo Blog",
-  
   description: "Notícias relacionadas a tecnologia e IA",
 
   themeConfig: {
