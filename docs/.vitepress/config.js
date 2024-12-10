@@ -1,6 +1,7 @@
 import {defineConfig} from 'vitepress';
 import {processData} from "@chunge16/vitepress-blogs-theme/config";
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'pt-BR',
