@@ -9,6 +9,8 @@ Criado com [Vitpress](https://vitepress.dev/)
 # TODO
 
 - Google Adsense
+- Google Analitics
+- Subscribe
 
 # Sobre
 
