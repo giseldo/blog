@@ -8,6 +8,8 @@ tags:
     - aprendizagem de máquina
 ---
 
+Uma breve introdução aos conceitos de regressão linear.
+
 ---
 
 ## Introdução

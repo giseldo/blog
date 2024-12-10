@@ -8,11 +8,9 @@ tags:
     - inteligência artificial
 ---
 
-Artigo explicando o LLM da Nvidia Nemotron
+Artigo explicando o LLM da Nvidia Nemotron.
 
 ---
-
-# Nemotron LLM 70B 
 
 ## Introdução
 
