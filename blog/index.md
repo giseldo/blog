@@ -27,7 +27,7 @@ features:
     linkText: Leia mais
   - title: CodeGPT
     details: CodeGPT
-    link: /posts/codegpt
+    link: /posts/2024-11-19-codegpt
     linkText: Leia mais
   - title: LLM Nemotron
     details: Um primeiro contato o Nemotron

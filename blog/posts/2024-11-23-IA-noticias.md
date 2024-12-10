@@ -20,6 +20,8 @@ _23/11/2024_
 
 _Por Giseldo Neo_
 
+## Notícias do dia
+
 **Amazon Dobra Investimento na Startup de IA Anthropic**
 
 A Amazon ampliou seu investimento na startup de inteligência artificial Anthropic, adicionando mais US$ 4 bilhões. Com isso, a Amazon mantém sua posição como investidora minoritária e principal parceira de treinamento da Anthropic, que desenvolve o chatbot Claude. Este movimento intensifica a competição da Amazon com Microsoft e Google no fornecimento de ferramentas baseadas em IA na computação em nuvem. [[1]]( https://www.reuters.com/pt/tecnologia/B2IQQ3ABXVONBLLAQV3YWONK6I-2024-11-22/?utm_source=chatgpt.com)

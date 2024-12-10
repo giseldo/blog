@@ -10,10 +10,6 @@ aside: false
 sidebar: false
 layout: doc
 
-prev:
-   text: 'Voltar'
-next:
-   text: 'Próximo'
 ---
 
 # Avaliação por pares
@@ -21,6 +17,8 @@ next:
 _09/12/2024_
 
 _Por Giseldo Neo_
+
+## Introdução
 
 O processo de *avaliação por pares* (em inglês peer review) tem o objetivo de assegurar a qualidade, a precisão e a relevância dos trabalhos de pesquisa antes de serem divulgados à comunidade acadêmica.
 

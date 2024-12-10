@@ -19,6 +19,8 @@ _01/03/2024_
 
 _Por Giseldo Neo_
 
+## Introdução
+
 Em julho de 2024, a Meta lançou um modelo de linguagem (LLM) open-source, o _Llama-3.1-70B_. Um pouco depois, em setembro a empresa NVIDIA lançou um derivado deste, o _Llama 3.1-Nemotron-51B-Instruct_. E em outubro lançou finalmente um modelo de 70b, o _Llama 3.1 nemotron-70b-instruct_.
 
 O _nemotron-70b_ performou melhor, em alguns testes comparativos, do que o GPT-4o. Nos testes, ele liderou em desempenho geral e também se destacou nas categorias chat (_chat score_) e raciocínio (_reasoning score_). Veja na **Tabela 1** os dados comparativos com mais detalhes.
