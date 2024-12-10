@@ -1,6 +1,6 @@
 import {defineConfig} from 'vitepress';
 import {processData} from "@chunge16/vitepress-blogs-theme/config";
-
+import { ptBR } from "date-fns/locale";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -9,6 +9,23 @@ export default defineConfig({
   cleanUrls: true,
   title: "Neo Blog",
   description: "Um blog relacionado a inteligência artificial",
+  
+  // google analytics
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-YVNTETJZ36' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YVNTETJZ36');`
+    ]
+  ],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -29,7 +46,11 @@ export default defineConfig({
     blog: {
       title: 'Neo Blog',
       description: 'Um blog com artigos sobre tecnologia, inteligência artificial e aprendizagem de máquina!',
-      defaultAuthor: 'AI Writer',
+      defaultAuthor: 'Giseldo Neo',
+      dateConfig: {
+        format: 'dd/MM/yyyy',
+        locale: ptBR
+      },
       categoryIcons: {
         artigo: 'i-[carbon/notebook]',
         documentação: 'i-[carbon/book]',
