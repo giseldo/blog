@@ -1,10 +1,8 @@
 # Neo Cursos
 
-Um blog de notícias relacionadas a inteligência artificial
+Um [Blog](https://giseldo.github.io/blog/) de notícias relacionadas a inteligência artificial
 
-Criado com [Vitpress](https://vitepress.dev/)
-
-[Versão on-line](https://giseldo.github.io/blog/)
+Acesse também [Neo Cursos](https://giseldo.github.io/cursos/)
 
 # TODO
 
@@ -17,4 +15,4 @@ Criado com [Vitpress](https://vitepress.dev/)
 
 # Sobre
 
-Criado com [Vitepress blogs theme](https://chunge16.github.io/vitepress-blogs-theme/)
+Criado com e [Vitpress](https://vitepress.dev/) e com o [Vitepress blogs theme](https://chunge16.github.io/vitepress-blogs-theme/)
