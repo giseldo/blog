@@ -8,9 +8,10 @@ Criado com [Vitpress](https://vitepress.dev/)
 
 # TODO
 
-- Google Adsense
-- Google Analitics
-- Subscribe
+- Google Adsense 
+- Google Analitics [x]
+- Subscribe [ ]
+- Incluir página da equipe [ ] https://vitepress.dev/pt/reference/default-theme-team-page
 
 # Sobre
 
