@@ -23,3 +23,5 @@ Criado com e [Vitpress](https://vitepress.dev/) e com o [Vitepress blogs theme](
 
 Giseldo Neo
 giseldo@gmail.com
+
+---
