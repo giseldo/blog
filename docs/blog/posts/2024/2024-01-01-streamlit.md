@@ -9,7 +9,7 @@ tags:
     - Web
 ---
 ::: info Resumo
-Um breve introdução ao Streamlit
+Uma apresentação do Streamlit para não iniciados no tema
 :::
 
 ## Introdução
