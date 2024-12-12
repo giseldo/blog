@@ -8,9 +8,9 @@ tags:
     - StreamLit
     - Web
 ---
-
+::: info Resumo
 Um breve introdução ao Streamlit
-
+:::
 ---
 
 ## Introdução
