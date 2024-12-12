@@ -1,6 +1,7 @@
 ---
 date: 2024-01-01
 title: StreamLit - Um framework para desenvolvimento de aplicações Web com Python
+description: Uma apresentação do Streamlit para não iniciados no tema
 category: Documentação
 author: Giseldo Neo
 tags: 
@@ -8,9 +9,10 @@ tags:
     - StreamLit
     - Web
 ---
-::: info Resumo
+
+<div class="tip custom-block" style="padding-top: 8px">
 Uma apresentação do Streamlit para não iniciados no tema
-:::
+</div>
 
 ## Introdução
 
