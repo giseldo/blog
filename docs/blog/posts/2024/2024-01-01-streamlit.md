@@ -11,7 +11,6 @@ tags:
 ::: info Resumo
 Um breve introdução ao Streamlit
 :::
----
 
 ## Introdução
 
