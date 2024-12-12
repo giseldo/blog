@@ -37,6 +37,15 @@ export default defineConfig({
       { text: 'Cursos', link: 'http://giseldo.github.io/cursos' }      
     ],
 
+    footer: {
+      message: 'Lançado sob a Licença MIT.',
+      copyright: 'Direitos autorais © 2024 Giseldo Neo'
+    },
+
+    search: {
+      provider: 'local'
+    }
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/giseldo/blog' },
       { icon: 'twitter', link: 'https://twitter.com/giseldoneo' },
