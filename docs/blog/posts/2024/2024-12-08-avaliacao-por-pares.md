@@ -63,7 +63,7 @@ flowchart TD
 **Publicação:**  
    Uma vez que o artigo é aceito, ele segue para a etapa de editoração final, incluindo diagramação, revisões de linguagem e formatação, para então ser publicado na revista, tornando-se acessível à comunidade científica.
 
-## Resumo
+## Conclusão 
 
 Em resumo, o processo de revisão por pares é um diálogo construtivo entre autores e revisores, mediado pelos editores, com o propósito de aprimorar a qualidade científica do trabalho antes da publicação, garantindo assim a credibilidade e a integridade da literatura acadêmica.
 
