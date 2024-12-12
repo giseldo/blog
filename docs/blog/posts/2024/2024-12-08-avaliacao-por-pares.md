@@ -1,6 +1,7 @@
 ---
 date: 2024-12-08
 title: Avaliação por pares
+description: Uma descrição de como funciona a avaliação por pares na publicação de artigos científicos.
 category: Documentação
 author: Giseldo Neo
 tags: 
