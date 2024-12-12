@@ -7,9 +7,9 @@ tags:
     - Metodologia Cietífica
 ---
 
+::: info
 Um resumo de como funciona a avaliação por pares na publicação de artigos científicos.
-
----
+:::
 
 ## Introdução
 
