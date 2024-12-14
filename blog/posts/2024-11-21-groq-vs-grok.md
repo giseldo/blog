@@ -72,7 +72,7 @@ Veja na **Figura 1** uma imagem do chatbot da OpenAI e na **Figura 2** o playgro
 
 o Groq (com Q) usa  uma versão do LLama da Meta em seu [Chatbot Groq](https://groq.com/#), porém  seu foco é a [API/playground Groq](https://console.groq.com/playground) que funciona no formato pague-pelo-uso. 
 o Chatbot Groq também consome os mesmos créditos pague-pelo-uso, não tendo uma assinatura aparte, como no caso do chatbot do ChatGPT. 
-Veja na **Figura 3** o Chatbot do Groq e na **Figura 4** o Playground do Groq. Note que no Chatbot do Groq não exite o recurso de histórico como no ChatGPT.
+Veja na **Figura 3** o Chatbot do Groq e na **Figura 4** o Playground do Groq. Note que no Chatbot do Groq não existe o recurso de histórico como no ChatGPT.
 
 > **Figura 3** - Chatbot do Groq
 > ![image](https://github.com/user-attachments/assets/3c6efe44-9598-4353-a81c-1b5602c0a243)
