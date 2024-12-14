@@ -58,8 +58,8 @@ Já o [Grok](https://x.ai/) é comumente utilizado em referência ao chatbot da 
 
 Geralmente, a desenvolvedora de um modelo LLM fornece uma interface para o usuário conversar com o seu modelo em forma de chatbot e também fornece uma API para quem deseja integrar a solução em suas aplicações. 
 Assim é o [ChatGPT](https://chatgpt.com/), da empresa OpenAI. 
-OpenAI cobra 100 R$ para disponibilizar aos assinantes acesso completo aos recursos do seu chatbot, inclusive o recurso de SearchGPT, uma busca na web com o ChatGPT. 
-Já para para a API da OpenAI a modalidade de cobrança é pague-pelo-uso. 
+Ela cobra 100 R$ para disponibilizar aos assinantes acesso completo aos recursos do seu chatbot, inclusive o recurso de SearchGPT, uma busca na web. 
+Já para para acesso a sua API, a modalidade de cobrança é pague-pelo-uso. 
 Veja na **Figura 1** uma imagem do chatbot da OpenAI e na **Figura 2** o playground da OpenAI. 
 
 > **Figura 1** - Chatbot da OpenAI
