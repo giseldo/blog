@@ -5,6 +5,7 @@ description: Um resumo de como funciona a avaliação por pares na publicação 
 category: Documentação
 author: Giseldo Neo
 sidebar: false
+aside: false
 tags: 
     - Metodologia Cietífica
 ---
@@ -41,8 +42,8 @@ tags:
     <img src="./giseldo.png" alt="Profile Picture" />
     <div class="profile-details">
       <p>Giseldo Neo</p>
-      <p>01/01/2024</p>
-      <p>Partes deste texto foram criados, ou revisados com IA generativa.</p>
+      <p>08/12/2024</p>
+      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
     </div>
   </div>
   <hr class="solid">

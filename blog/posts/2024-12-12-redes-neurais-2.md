@@ -5,6 +5,7 @@ description: Função de perda, retropropagação e gradiente
 category: Documentação
 author: Giseldo Neo
 sidebar: false
+aside: false
 tags: 
     - redes neurais
     - aprendizagem de máquina
@@ -47,6 +48,7 @@ tags:
   <div class="profile-details">
     <p>Giseldo Neo</p>
     <p>12/12/2024</p>
+    <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
   </div>
 </div>
 <hr class="solid">

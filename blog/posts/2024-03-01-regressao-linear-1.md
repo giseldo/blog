@@ -5,6 +5,7 @@ description: Uma introdução aos conceitos de regressão linear
 category: Documentação
 author: Giseldo Neo
 sidebar: false
+aside: false
 tags: 
     - regressão linear
     - aprendizagem de máquina
@@ -42,7 +43,8 @@ tags:
     <img src="./giseldo.png" alt="Profile Picture" />
     <div class="profile-details">
       <p>Giseldo Neo</p>
-      <p>01/01/2024</p>
+      <p>01/03/2024</p>
+      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
     </div>
   </div>
   <hr class="solid">

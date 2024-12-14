@@ -5,6 +5,7 @@ description: Uma introdução a redes neurais
 category: Documentação
 author: Giseldo Neo
 sidebar: false
+aside: false
 tags: 
     - redes neurais 
     - inteligência artificial
@@ -42,7 +43,8 @@ tags:
     <img src="./giseldo.png" alt="Profile Picture" />
     <div class="profile-details">
       <p>Giseldo Neo</p>
-      <p>01/01/2024</p>
+      <p>01/04/2024</p>
+      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
     </div>
   </div>
   <hr class="solid">

@@ -5,6 +5,7 @@ description: Postagem explicando qual a diferença entre o Groq e o Grok
 category: Artigo
 author: Giseldo Neo
 sidebar: false
+aside: false
 tags: 
     - Large Language Models
 ---
@@ -41,7 +42,8 @@ tags:
     <img src="./giseldo.png" alt="Profile Picture" />
     <div class="profile-details">
       <p>Giseldo Neo</p>
-      <p>01/01/2024</p>
+      <p>21/11/2024</p>
+      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
     </div>
   </div>
   <hr class="solid">

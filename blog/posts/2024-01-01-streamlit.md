@@ -5,6 +5,7 @@ description: Um introdução ao Streamlit, um framework de desenvolvimento rápi
 category: Documentação
 author: Giseldo Neo
 sidebar: false
+aside: false
 tags: 
     - Python
     - StreamLit
@@ -44,6 +45,7 @@ tags:
     <div class="profile-details">
       <p>Giseldo Neo</p>
       <p>01/01/2024</p>
+      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
     </div>
   </div>
   <hr class="solid">
