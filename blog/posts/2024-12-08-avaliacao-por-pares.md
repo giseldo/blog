@@ -97,6 +97,14 @@ flowchart TD
 
 Em resumo, o processo de avaliação por pares é um diálogo construtivo entre autores e revisores, mediado pelos editores, com o propósito de aprimorar a qualidade científica do trabalho antes da publicação, garantindo assim a credibilidade e a integridade da literatura acadêmica.
 
+<div class="custom-layout">
+Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
+</div>
+
+<div class="custom-layout">
+<SimpleNewsletter />  
+</div>
+
 <center>. . .</center>
 
 _<center>Até a próxima postagem</center>_
