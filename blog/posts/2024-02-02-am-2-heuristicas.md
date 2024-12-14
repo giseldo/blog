@@ -117,7 +117,6 @@ Métodos como **ε-greedy** ou **UCB (Upper Confidence Bound)** são heurística
 
 ### Limitações das Heurísticas em Aprendizagem de Máquina
 
-**Não garantem otimalidade**: Soluções podem ser subótimas.
 **Dependem de contexto**: Uma heurística eficiente em um problema pode ser ineficaz em outro.
 **Introduzem vieses**: Algumas heurísticas podem enviesar o modelo ou os resultados, limitando a generalização.
 
@@ -125,6 +124,14 @@ Métodos como **ε-greedy** ou **UCB (Upper Confidence Bound)** são heurística
 
 Heurísticas são ferramentas indispensáveis na aprendizagem de máquina porque ajudam a lidar com problemas práticos, reduzindo custos computacionais e tempos de execução. No entanto, devem ser utilizadas com cautela e complementadas por análises teóricas ou experimentais para garantir a validade e a eficácia dos modelos resultantes.
 
+<div class="custom-layout">
+Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
+</div>
+
+<div class="custom-layout">
+<SimpleNewsletter />
+</div>
+
 <center>. . .</center>
 
-_<center>Até o próximo artigo</center>_
+_<center>Até o proximo artigo</center>_

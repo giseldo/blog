@@ -131,6 +131,15 @@ Curtiu? Deixei um comentário. Até o próximo post.
 * [NVIDIA Blog post](https://developer.nvidia.com/blog/advancing-the-accuracy-efficiency-frontier-with-llama-3-1-nemotron-51b)
 * [Reddit post](https://www.reddit.com/r/LocalLLaMA/comments/1fnp2kt/new_llama31nemotron51b_instruct_model_from_nvidia/)
 
+<div class="custom-layout">
+Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
+</div>
+
+<div class="custom-layout">
+<SimpleNewsletter />
+</div>
+
 <center>. . .</center>
 
-_<center>Até o próximo artigo</center>_
+_<center>Até o proximo artigo</center>_
+

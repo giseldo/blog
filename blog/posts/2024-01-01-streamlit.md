@@ -60,7 +60,7 @@ As principais características do Streamlit são:
 
 * Interatividade: Possibilita adicionar widgets interativos como sliders, botões, e caixas de seleção para que os usuários possam interagir com os dados e visualizar os resultados em tempo real.
 
-* Integração com Bibliotecas de Dados: Funciona bem com outras bibliotecas populares de Python como pandas, numpy, matplotlib, seaborn, entre outras, facilitando a visualização e manipulação de dados.
+* Integração com Bibliotecas de Dados: Funciona bem com outras bibliotecas populares de Python como `pandas`, `numpy`, `matplotlib`, `seaborn`, entre outras, facilitando a visualização e manipulação de dados.
 
 * Atualização em Tempo Real: As mudanças nos scripts de Python são automaticamente refletidas na aplicação web, permitindo um desenvolvimento iterativo e rápido.
 
@@ -123,6 +123,14 @@ st.latex(r''' Y = B_1X_1+B_2X_2 ''')
 
 Em resumo, o Streamlit é uma ferramenta poderosa para criar dashboards e visualizações de dados, permitindo compartilhar análises de forma interativa e acessível. Se você está procurando uma maneira rápida e eficiente de transformar suas análises de dados em aplicativos web, o Streamlit é uma excelente escolha.
 
+<div class="custom-layout">
+Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
+</div>
+
+<div class="custom-layout">
+<SimpleNewsletter />
+</div>
+
 <center>. . .</center>
 
-_<center>Até o próximo artigo</center>_
+_<center>Até o proximo artigo</center>_

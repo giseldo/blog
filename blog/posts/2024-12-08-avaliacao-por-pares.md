@@ -102,9 +102,14 @@ Se você está gostando da leitura, deixe um comentário ou curta esta postagem.
 </div>
 
 <div class="custom-layout">
-<SimpleNewsletter />  
+Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
+</div>
+
+<div class="custom-layout">
+<SimpleNewsletter />
 </div>
 
 <center>. . .</center>
 
-_<center>Até a próxima postagem</center>_
+_<center>Até o proximo artigo</center>_
+
