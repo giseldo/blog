@@ -1,8 +1,6 @@
 // `.vitepress/config.js`
-import { defineConfig } from 'vitepress'
 import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
-
 
 const vitePressOptions = {
     base: '/blog/',
@@ -28,18 +26,6 @@ const vitePressOptions = {
         gtag('config', 'G-YVNTETJZ36');`
       ]
     ],
-
-    markdown: {
-      toc: { level: [0, 1, 2, 3] },
-
-      container: {
-        tipLabel: '',
-        warningLabel: '',
-        dangerLabel: '',
-        infoLabel: '',
-        detailsLabel: ''
-      }
-    },
 
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
