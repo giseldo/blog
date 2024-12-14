@@ -20,7 +20,7 @@ Acesse também [Neo Cursos](https://giseldo.github.io/cursos/)
 
 ## Sobre
 
-Criado com e [Vitpress](https://vitepress.dev/) e com o [Vitepress blogs theme](https://chunge16.github.io/vitepress-blogs-theme/)
+Criado com a versão default do [Vitpress](https://vitepress.dev/)
 
 ## Author 
 
