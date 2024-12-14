@@ -45,7 +45,7 @@ tags:
   </div>
   <hr class="solid">
 
-![](./2024-12-13-fraudes-acadêmicas/fraudecapa.jpg)
+![](./2024-12-13-fraudes-acadêmicas/fraudecapa.webp)
 
 O processo de [avaliação por pares](./2024-12-08-avaliacao-por-pares) tem o objetivo de assegurar a qualidade, a precisão e a relevância dos trabalhos de pesquisa antes de serem divulgados à comunidade acadêmica. Porém, mesmo com esse processo alguns pesquisadores ainda conseguem fraudá-lo.
 
