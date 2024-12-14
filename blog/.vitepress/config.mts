@@ -62,7 +62,7 @@ const vitePressOptions = {
       // youtube
 
       editLink: {
-        pattern: 'https://github.com/giseldo/blog/edit/main/docs/:path'
+        pattern: 'https://github.com/giseldo/blog/edit/main/blog/:path'
       },
 
       search: {
