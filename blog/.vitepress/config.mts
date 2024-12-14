@@ -2,6 +2,7 @@
 import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
 
+
 const vitePressOptions = {
     base: '/blog/',
     title: 'Neo Blog',
@@ -12,7 +13,7 @@ const vitePressOptions = {
 
     },
 
-    head: [
+  head: [
       [
         'script',
         { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-YVNTETJZ36' }

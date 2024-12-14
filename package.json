@@ -11,6 +11,8 @@
     "blog:preview": "vitepress preview blog"
   },
   "dependencies": {
-    "vitepress-plugin-image-viewer": "^1.1.5"
+    "vitepress-plugin-image-viewer": "^1.1.5",
+    "pinia": "^2.0.17",
+    "jsonp": "^0.2.1"
   }
 }
