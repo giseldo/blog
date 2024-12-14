@@ -61,9 +61,11 @@ Casos como o de Raval evidenciam como o uso inadequado de ferramentas tecnológi
 
 No entanto, a questão levanta discussões sobre a ética no uso de inteligência artificial, especialmente em contextos acadêmicos, onde a originalidade e a precisão são fundamentais para o avanço do conhecimento. A situação também ressalta a importância de diretrizes claras para o uso dessas ferramentas, a fim de evitar ambiguidades e preservar a integridade científica.
 
+
 <div class="custom-layout">
-  Se você está gostando da leitura deixe um comentário ou curta essa postagem. Isso ajuda os autores a criarem novos conteúdos. Caso queira receber semanalmente as última postagens, assine nossa newsletter.
+  Se você está gostando da leitura deixe um comentário ou curta essa postagem. Isso ajuda os autores a criarem novos conteúdos. Caso queira receber semanalmente as última postagens por e-mail assine nossa newsletter.
 </div>
+
 
 <div class="custom-layout">
 <SimpleNewsletter />  

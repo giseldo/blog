@@ -60,8 +60,8 @@
   const slotProps = ref({
     mail: '',
     title: 'Newsletter',
-    content: 'Subscribe to get my latest content. No spam.',
-    submitText: 'Subscribe',
+    content: 'Inscreva-se na nossa newsletter semanal. Sem spam.',
+    submitText: 'Inscreva-se',
   })
   
   const onSubmit = () => {

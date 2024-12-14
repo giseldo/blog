@@ -59,7 +59,6 @@ features:
 
 <!-- Custom home layout -->
 <div class="custom-layout">
-  <h1>Custom Layout</h1>
   <SimpleNewsletter />  
 </div>
 
