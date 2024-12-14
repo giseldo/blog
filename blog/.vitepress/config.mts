@@ -31,7 +31,7 @@ const vitePressOptions = {
       // https://vitepress.dev/reference/default-theme-config
 
       lastUpdated: {
-        text: 'Updated at',
+        text: 'Atualizado em',
         formatOptions: {
           dateStyle: 'full',
           timeStyle: 'medium'
@@ -69,7 +69,6 @@ const vitePressOptions = {
       },
 
       externalLinkIcon: true,
-      
       aside: true,
       lastUpdate: true,
 

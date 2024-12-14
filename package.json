@@ -9,5 +9,8 @@
     "blog:dev": "vitepress dev blog",
     "blog:build": "vitepress build blog",
     "blog:preview": "vitepress preview blog"
+  },
+  "dependencies": {
+    "vitepress-plugin-image-viewer": "^1.1.5"
   }
 }

@@ -12,9 +12,9 @@ import {
 
 const members = [
   {
-    avatar: 'https://avatars.githubusercontent.com/u/1112941?v=4',
+    avatar: './giseldo.png',
     name: 'Giseldo Neo',
-    title: 'Criador',
+    title: 'Criador do blog',
     links: [
       { icon: 'github', link: 'https://github.com/giseldo' },
       { icon: 'twitter', link: 'https://x.com/@giseldoneo' }
