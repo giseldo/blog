@@ -70,12 +70,6 @@ Na Figura 1 é apresentado um neurônio artificial K e seus elementos: a funçã
 
 A **função de perda** é uma métrica que avalia o quão bem a rede está performando. Para problemas de regressão, uma função comum é o **erro quadrático médio**, que mede a diferença entre os valores previstos e os reais. Já para problemas de classificação, utiliza-se frequentemente a **perda por entropia cruzada**, que considera as probabilidades das classes previstas. Com base na perda calculada, inicia-se o processo de **retropropagação**.
 
-<hr class="solid">
-<center>...</center>
-Se você está gostando da leitura, deixe um comentário, ou curta essa postagem. Isso me ajuda a criar novos conteúdos.
-<center>...</center>
-<hr class="solid">
-
 ## Retropropagação
 
 A **retropropagação** consiste em atualizar os pesos e vieses da rede a partir dos gradientes da função de perda com relação a essas variáveis. Esse processo utiliza a **regra da cadeia**, pois o cálculo dos gradientes envolve derivadas parciais acumuladas ao longo das camadas da rede. Inicialmente, os pesos e vieses são configurados aleatoriamente e, durante a retropropagação, ajustam-se para minimizar a perda. O objetivo é determinar se os valores atuais devem ser aumentados ou reduzidos e em que proporção.
@@ -91,6 +85,14 @@ Esse processo iterativo, essencial para redes neurais, permite que elas aprendam
 ## Referências
 
 [ai but simple Issue 2](https://www.aibutsimple.com/p/neural-networks-learning-parameters-weights-biases-backprop)
+
+<div class="custom-layout">
+Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
+</div>
+
+<div class="custom-layout">
+<SimpleNewsletter />  
+</div>
 
 <center>. . .</center>
 
