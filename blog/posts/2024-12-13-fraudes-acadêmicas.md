@@ -71,4 +71,4 @@ Se você está gostando da leitura, deixe um comentário ou curta esta postagem.
 
 <center>. . .</center>
 
-_<center>Até a próxima postagem</center>_
+_<center>Até o proximo artigo</center>_
