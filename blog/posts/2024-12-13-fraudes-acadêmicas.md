@@ -55,11 +55,8 @@ Relatos como os mencionados na mídia em [notícia 1](https://www.metropoles.com
 
 <hr class="solid">
 <center>...</center>
-
 Se você está gostando da leitura, deixe um comentário, ou curta essa postagem. Isso me ajuda a criar novos conteúdos.
-
 <center>...</center>
-
 <hr class="solid">
 
 Este caso marcante resultou na retratação de mais de 20 artigos pela editora Elsevier([notícia 3](https://www.science.org/content/article/it-felt-very-icky-scientist-s-name-was-used-write-fake-peer-reviews)). Este evento gerou repercussão significativa no meio acadêmico e levantou questionamentos sobre as fragilidades do sistema de revisão por pares. Mesmo quando a avaliação técnica é de qualidade, a descoberta de avaliadores falsos mina a confiança em todo o processo editorial e reforça a necessidade de protocolos mais rigorosos. Um exemplo de retratação de um artigo pode ser encontrado [aqui](https://www.sciencedirect.com/science/article/pii/S0048969724079749?via%3Dihub). Em sua defesa, o acusado publicou uma [carta aberta](https://ddcdb2d2-ff28-4), contestando as acusações e apontando possíveis falhas no processo de investigação.
