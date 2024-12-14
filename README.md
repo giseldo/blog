@@ -1,8 +1,8 @@
 # Neo Blog
 
-Um [Blog](https://giseldo.github.io/blog/) de notícias relacionadas a inteligência artificial
+Um [Blog](https://giseldo.github.io/blog/) de notícias relacionadas a inteligência artificial.
 
-Acesse também [Neo Cursos](https://giseldo.github.io/cursos/)
+Acesse também o [Neo Cursos](https://giseldo.github.io/cursos/).
 
 ## TODO
 
