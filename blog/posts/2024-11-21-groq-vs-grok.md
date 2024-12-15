@@ -1,5 +1,5 @@
 ---
-date: 2024-11-21
+date: 21/11/2024
 title: Groq vs Grok - Qual a diferença?
 description: Postagem explicando qual a diferença entre o Groq e o Grok
 category: Artigo
@@ -10,45 +10,7 @@ tags:
     - Large Language Models
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
-
-  <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>21/11/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-  <hr class="solid">
-
-##  Introdução
+<!--@include: cabecalho.md-->
 
 Groq e Grok são coisas distintas e desenvolvidas por empresas diferentes, com características e finalidades específicas
 Geralmente quando nos referimos ao [Groq](https://groq.com/) (com Q), estamos nos referindo a uma fornecedora de infraestrutura para inferência em modelos de LLM diversos.
@@ -121,14 +83,4 @@ Apesar das semelhanças nos nomes, Groq e Grok são soluções de IA com propós
 -  https://x.ai/
 -  https://getstream.io/blog/best-local-llm-tools/
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
-
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
+<!--@include: rodape.md-->

@@ -1,5 +1,5 @@
 ---
-date: 2024-05-01
+date: 01/05/2024
 title: LLM Nemotron 70B 
 description: Postagem explicando o LLM da Nvidia Nemotron
 category: Artigo
@@ -11,45 +11,7 @@ tags:
     - inteligência artificial
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
-
-  <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>01/05/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-  <hr class="solid">
-
-## Introdução
+<!--@include: cabecalho.md-->
 
 Em julho de 2024, a Meta lançou um modelo de linguagem (LLM) open-source, o _Llama-3.1-70B_. Um pouco depois, em setembro a empresa NVIDIA lançou um derivado deste, o _Llama 3.1-Nemotron-51B-Instruct_. E em outubro lançou finalmente um modelo de 70b, o _Llama 3.1 nemotron-70b-instruct_.
 
@@ -131,15 +93,4 @@ Curtiu? Deixei um comentário. Até o próximo post.
 * [NVIDIA Blog post](https://developer.nvidia.com/blog/advancing-the-accuracy-efficiency-frontier-with-llama-3-1-nemotron-51b)
 * [Reddit post](https://www.reddit.com/r/LocalLLaMA/comments/1fnp2kt/new_llama31nemotron51b_instruct_model_from_nvidia/)
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
-
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
-
+<!--@include: rodape.md-->

@@ -1,5 +1,5 @@
 ---
-date: 2024-02-01
+date: 02/02/2024
 title: Aprendizagem de Máquina (#2) - Heurísticas
 description: Explicação do que é heurística na aprendizagem de máquina
 category: Documentação
@@ -10,45 +10,7 @@ tags:
     - Aprendizagem de Máquina
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
- 
- <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>02/02/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-   <hr class="solid">
-
-## Introdução
+<!--@include: cabecalho.md-->
 
 Em **aprendizagem de máquina**, heurísticas são métodos ou estratégias práticas utilizadas para simplificar problemas complexos, acelerar a convergência de algoritmos ou ajustar modelos de forma eficiente. Elas desempenham um papel crucial em situações onde soluções exatas seriam muito caras em termos computacionais ou inviáveis devido à incerteza e à natureza de grandes volumes de dados.
 
@@ -124,14 +86,4 @@ Métodos como **ε-greedy** ou **UCB (Upper Confidence Bound)** são heurística
 
 Heurísticas são ferramentas indispensáveis na aprendizagem de máquina porque ajudam a lidar com problemas práticos, reduzindo custos computacionais e tempos de execução. No entanto, devem ser utilizadas com cautela e complementadas por análises teóricas ou experimentais para garantir a validade e a eficácia dos modelos resultantes.
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
-
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
+<!--@include: rodape.md-->

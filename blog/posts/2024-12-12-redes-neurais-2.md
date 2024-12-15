@@ -1,5 +1,5 @@
 ---
-date: 2024-12-12
+date: 12/12/2024
 title: Redes Neurais (2#)
 description: Função de perda, retropropagação e gradiente
 category: Documentação
@@ -11,47 +11,7 @@ tags:
     - aprendizagem de máquina
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-
-    hr.solid {
-     border-top: 1px solid #bbb;
-    }
-</style>
-
-<hr class="solid">
-<div class="profile">
-  <img src="./giseldo.png" alt="Profile Picture" />
-  <div class="profile-details">
-    <p>Giseldo Neo</p>
-    <p>12/12/2024</p>
-    <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-  </div>
-</div>
-<hr class="solid">
+<!--@include: cabecalho.md-->
 
 ## Introdução
 
@@ -86,14 +46,4 @@ Esse processo iterativo, essencial para redes neurais, permite que elas aprendam
 
 [ai but simple Issue 2](https://www.aibutsimple.com/p/neural-networks-learning-parameters-weights-biases-backprop)
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />  
-</div>
-
-<center>. . .</center>
-
-_<center>Até a próxima postagem</center>_
+<!--@include: rodape.md-->

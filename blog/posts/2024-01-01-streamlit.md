@@ -1,5 +1,5 @@
 ---
-date: 2024-01-01
+date: 01/01/2024
 title: Streamlit (#1)
 description: Um introdução ao Streamlit, um framework de desenvolvimento rápido web para Python
 category: Documentação
@@ -12,45 +12,7 @@ tags:
     - Web
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
-  
-  <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>01/01/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-  <hr class="solid">
-
-## Introdução
+<!--@include: cabecalho.md-->
 
 O [Streamlit](https://streamlit.io/) é uma biblioteca de código aberto em Python que facilita a criação de aplicativos web interativos e de visualização de dados de forma rápida e simples. É amplamente utilizada por cientistas de dados, analistas e desenvolvedores que desejam transformar seus scripts de Python em aplicações web interativas sem a necessidade de conhecimentos avançados em desenvolvimento web.
 
@@ -123,14 +85,4 @@ st.latex(r''' Y = B_1X_1+B_2X_2 ''')
 
 Em resumo, o Streamlit é uma ferramenta poderosa para criar dashboards e visualizações de dados, permitindo compartilhar análises de forma interativa e acessível. Se você está procurando uma maneira rápida e eficiente de transformar suas análises de dados em aplicativos web, o Streamlit é uma excelente escolha.
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
-
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
+<!--@include: rodape.md-->

@@ -1,7 +1,7 @@
 ---
-date: 2024-11-23
+date: 23/11/2024
 title: IA Notícias (23/11/2024)
-description: Um resumo das principais notícias relacionadas a inteligência artificial do dia 23/11/2024
+description: Um resumo das principais notícias relacionadas a inteligência artificial
 category: Notícias
 author: Giseldo Neo
 sidebar: false
@@ -11,43 +11,7 @@ tags:
     - Inteligência Artificial
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
-
-  <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>13/11/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-  <hr class="solid">
+<!--@include: cabecalho.md-->
 
 ## Amazon Dobra Investimento na Startup de IA Anthropic
 
@@ -66,15 +30,4 @@ O filósofo Éric Sadin discutiu os profundos impactos que a inteligência artif
 A inteligência artificial emergiu como uma ferramenta fundamental no âmbito empresarial, favorecendo a inovação e a produtividade, automatizando processos e melhorando a interação com os clientes. Especialistas destacam a necessidade de desmistificar certos temores infundados sobre a IA e enfatizam que, embora possa eliminar certos empregos, também criará novos papéis, ressaltando a importância da regulamentação e da formação contínua. [[4]](https://cincodias.elpais.com/companias/2024-11-12/la-inteligencia-artificial-un-motor-para-la-innovacion-empresarial.html?utm_source=chatgpt.com)
 
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
-
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
-
+<!--@include: rodape.md-->

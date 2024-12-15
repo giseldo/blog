@@ -1,7 +1,7 @@
 ---
-date: 2024-12-08
+date: 13/12/2024
 title: Fraudes Acadêmicas
-description: Fraudes acadêmicas desafios e impactos na integridade científica
+description: Desafios e impactos da fraude na integridade científica
 category: Documentação
 author: Giseldo Neo
 sidebar: false
@@ -10,43 +10,12 @@ tags:
     - Metodologia Científica
 ---
 
-# {{ $frontmatter.title }}
+<!--@include: cabecalho.md-->
 
-{{ $frontmatter.description }}
-
-  <style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-    .profile-details {
-      font-size: 14px;
-    }
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
-
-  <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>13/12/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-  <hr class="solid">
-
->![](./2024-12-13-fraudes-acadêmicas/fraudecapa.webp)
-> Imagem criada com o auxílio da IA
+![capa do artigo](./2024-12-13-fraudes-acadêmicas/fraudecapa.webp)
+<div class="label_figura">
+  <p>Imagem criada com o auxílio da IA</p>
+</div>
 
 O processo de [avaliação por pares](./2024-12-08-avaliacao-por-pares) tem o objetivo de assegurar a qualidade, a precisão e a relevância dos trabalhos de pesquisa antes de serem divulgados à comunidade acadêmica. Porém, mesmo com esse processo alguns pesquisadores ainda conseguem fraudá-lo.
 
@@ -59,18 +28,18 @@ Isso gerou repercussão e debates no meio acadêmico levantando questionamentos 
 
 Fraudes, no entanto, não se restringem a etapa de avaliação por pares, podem acontecer antes da submissão. Em 2019, o influencer youtuber Siraj Raval [foi acusado no twitter](https://x.com/AndrewM_Webb/status/1183150368945049605) de plagiar trechos substanciais em um artigo de sua autoria: ["The neural Qubit"](https://github.com/rajaramkuberan/The-Neural-Qubit/blob/master/The%20Neural%20Qubit.pdf), conforme detalhado em [notícia 4](https://www.plagiarismtoday.com/2019/10/16/why-siraj-ravals-plagiarism-is-the-future-of-plagiarism/). A repercussão negativa causou danos à reputação do Raval. Um exemplo foi a remoção de sua [entrevista](https://www.youtube.com/watch?v=hESxReIH6zo) com o pesquisador em inteligência artificial [Lex Fridman](https://www.youtube.com/@lexfridman).
 
+![medium](./2024-12-13-fraudes-acadêmicas/twitter.png){style="display: block; margin: 0 auto" }
+<div class="label_figura">
+  <p>Postagem no twitter comparando as semelhanças entre o artigo “The neural Qubit” com outro já publicado</p>
+</div>
+
 Casos como o de Raval evidenciam como o uso inadequado de ferramentas tecnológicas pode levar a práticas antiéticas, especialmente quando a responsabilidade pela geração de conteúdo é negligenciada. No [vídeo](https://www.youtube.com/watch?v=954jL8dIPi0) publicado em seu canal do YouTube, Raval argumentou que utilizou uma versão inicial da ferramenta de IA generativa, o GPT-2, para a geração do texto e alegou que essa prática é hoje aceita. Ele conclui que o fato em 2019 demonstrou sua visão pioneira.
 
 No entanto, a questão levanta discussões sobre a ética no uso de inteligência artificial, especialmente em contextos acadêmicos, onde a originalidade e a precisão são fundamentais para o avanço do conhecimento. A situação também ressalta a importância de diretrizes claras para o uso dessas ferramentas, a fim de evitar ambiguidades e preservar a integridade científica.
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
+---
+Este artigo também está publicado no  [medium](https://medium.com/@giseldoneo/fraude-acad%C3%AAmica-no-processo-de-avalia%C3%A7%C3%A3o-por-pares-5da8e09d839d).
 
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
+---
 
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
+<!--@include: rodape.md-->

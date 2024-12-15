@@ -1,5 +1,5 @@
 ---
-date: 2024-02-01
+date: 01/03/2024
 title: Regressão Linear (1#)
 description: Uma introdução aos conceitos de regressão linear
 category: Documentação
@@ -11,45 +11,7 @@ tags:
     - aprendizagem de máquina
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
-
-  <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>01/03/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-  <hr class="solid">
-
-## Introdução
+<!--@include: cabecalho.md-->
 
 A Regressão linear é um método estatístico utilizado para avaliar a relação causal e quantitativa entre duas variáveis, chamada de variável dependente e variável independente, respectivamente. O modelo de regressão linear tem a seguinte forma: y = a + bx + e, onde y é a variável dependente, x é a variável independente, a é o intercepto, b é a reta inclinada e e é o erro. Com a regressão podemos encontrar um modelo matemático que melhor descreva a relação entre as variáveis (x) e (y).
 
@@ -117,14 +79,4 @@ Onde:
 1. Regressão polinomial
 2. Regressão logística
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
-
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
+<!--@include: rodape.md-->

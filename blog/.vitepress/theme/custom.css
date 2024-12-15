@@ -1,3 +1,9 @@
+.label_figura {
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+}
+
 body {
     font-size: 20px;
     line-height: 32px;
@@ -9,6 +15,10 @@ body {
 
 .vp-doc [class*=language-] code {
     font-size: 12px;
+}
+
+.vp-doc h1 {
+  font-size: 42px;
 }
 
 .vp-doc h2 {
@@ -32,12 +42,12 @@ body {
     margin: 6rem auto 0;
     border-radius: 10px;
   }
-  
+
   .custom-layout h1 {
     font-size: 2.2rem;
     font-weight: 600;
   }
-  
+
   .custom-layout .btn {
     background-color: var(--vp-button-brand-bg);
     color: var(--vp-button-brand-text);

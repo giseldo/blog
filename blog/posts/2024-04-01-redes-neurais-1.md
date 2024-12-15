@@ -1,5 +1,5 @@
 ---
-date: 2024-02-01
+date: 01/04/2024
 title: Redes Neurais (1#)
 description: Uma introdução a redes neurais
 category: Documentação
@@ -11,45 +11,7 @@ tags:
     - inteligência artificial
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
-
-  <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>01/04/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-  <hr class="solid">
-
-## Introdução
+<!--@include: cabecalho.md-->
 
 As **redes neurais** são utilizadas em diversas aplicações. De forma resumida elas são compostas por diversos nós interconectados e organizados em camadas. Elas funcionam como um meio de aprendizado a partir da análise de exemplos de treinamento, permitindo a realização de tarefas complexas. 
 
@@ -117,14 +79,4 @@ Curtiu? Deixei um comentário. Até o próximo post.
 
 [ai but simple Issue #1](https://www.aibutsimple.com/p/neural-networks-explained)
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
-
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
+<!--@include: rodape.md-->

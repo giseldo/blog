@@ -1,5 +1,5 @@
 ---
-date: 2024-12-08
+date: 08/12/2024
 title: Avaliação por pares
 description: Um resumo de como funciona a avaliação por pares na publicação de artigos científicos
 category: Documentação
@@ -10,45 +10,7 @@ tags:
     - Metodologia Cietífica
 ---
 
-# {{ $frontmatter.title }}
-
-{{ $frontmatter.description }}
-
-<style>
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      font-family: Arial, sans-serif;
-    }
-
-    .profile img {
-      border-radius: 50%;
-      width: 80px; /* Adjust size as needed */
-      height: 80px; /* Adjust size as needed */
-    }
-
-    .profile-details {
-      font-size: 14px;
-    }
-
-    .profile-details p {
-      margin: 0;
-    }
-  </style>
-
-  <hr class="solid">
-  <div class="profile">
-    <img src="./giseldo.png" alt="Profile Picture" />
-    <div class="profile-details">
-      <p>Giseldo Neo</p>
-      <p>08/12/2024</p>
-      <p>Partes deste texto foram criadas e revisadas com IA generativa.</p>
-    </div>
-  </div>
-  <hr class="solid">
-
-## Introdução
+<!--@include: cabecalho.md-->
 
 O processo de avaliação por pares (em inglês _peer review_) tem o objetivo de assegurar a qualidade, a precisão e a relevância dos trabalhos de pesquisa antes de serem divulgados à comunidade acadêmica. Mesmo com esse processo alguns pesquisadores ainda tentam [burlá-lo](./2024-12-13-fraudes-acadêmicas.md).
 
@@ -97,19 +59,4 @@ flowchart TD
 
 Em resumo, o processo de avaliação por pares é um diálogo construtivo entre autores e revisores, mediado pelos editores, com o propósito de aprimorar a qualidade científica do trabalho antes da publicação, garantindo assim a credibilidade e a integridade da literatura acadêmica.
 
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-Se você está gostando da leitura, deixe um comentário ou curta esta postagem. Isso ajuda os autores a criar novos conteúdos. Caso queira receber semanalmente as últimas postagens por e-mail, assine nossa newsletter
-</div>
-
-<div class="custom-layout">
-<SimpleNewsletter />
-</div>
-
-<center>. . .</center>
-
-_<center>Até o proximo artigo</center>_
-
+<!--@include: rodape.md-->
