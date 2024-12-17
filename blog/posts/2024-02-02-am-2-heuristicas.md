@@ -85,5 +85,3 @@ Métodos como **ε-greedy** ou **UCB (Upper Confidence Bound)** são heurística
 ## Conclusão
 
 Heurísticas são ferramentas indispensáveis na aprendizagem de máquina porque ajudam a lidar com problemas práticos, reduzindo custos computacionais e tempos de execução. No entanto, devem ser utilizadas com cautela e complementadas por análises teóricas ou experimentais para garantir a validade e a eficácia dos modelos resultantes.
-
-<!--@include: rodape.md-->

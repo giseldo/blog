@@ -1,4 +1,5 @@
 import Layout from './Layout.vue'
+import Cabecalho from './Cabecalho.vue'
 import './custom.css'
 
 import DefaultTheme from 'vitepress/theme';
@@ -18,6 +19,7 @@ const pinia = createPinia()
 
 export default {
     Layout,
+    Cabecalho,
     enhanceApp(ctx) {
         DefaultTheme.enhanceApp(ctx);
         // Register global components, if you don't want to use it, you don't need to add it

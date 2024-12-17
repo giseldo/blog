@@ -84,5 +84,3 @@ st.latex(r''' Y = B_1X_1+B_2X_2 ''')
 ## Conclusão
 
 Em resumo, o Streamlit é uma ferramenta poderosa para criar dashboards e visualizações de dados, permitindo compartilhar análises de forma interativa e acessível. Se você está procurando uma maneira rápida e eficiente de transformar suas análises de dados em aplicativos web, o Streamlit é uma excelente escolha.
-
-<!--@include: rodape.md-->

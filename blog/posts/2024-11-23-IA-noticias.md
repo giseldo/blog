@@ -28,6 +28,3 @@ O filósofo Éric Sadin discutiu os profundos impactos que a inteligência artif
 ## IA como Motor de Inovação Empresarial
 
 A inteligência artificial emergiu como uma ferramenta fundamental no âmbito empresarial, favorecendo a inovação e a produtividade, automatizando processos e melhorando a interação com os clientes. Especialistas destacam a necessidade de desmistificar certos temores infundados sobre a IA e enfatizam que, embora possa eliminar certos empregos, também criará novos papéis, ressaltando a importância da regulamentação e da formação contínua. [[4]](https://cincodias.elpais.com/companias/2024-11-12/la-inteligencia-artificial-un-motor-para-la-innovacion-empresarial.html?utm_source=chatgpt.com)
-
-
-<!--@include: rodape.md-->

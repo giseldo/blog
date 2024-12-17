@@ -78,5 +78,3 @@ Onde:
 
 1. Regressão polinomial
 2. Regressão logística
-
-<!--@include: rodape.md-->

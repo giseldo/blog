@@ -45,5 +45,3 @@ Esse processo iterativo, essencial para redes neurais, permite que elas aprendam
 ## Referências
 
 [ai but simple Issue 2](https://www.aibutsimple.com/p/neural-networks-learning-parameters-weights-biases-backprop)
-
-<!--@include: rodape.md-->

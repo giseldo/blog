@@ -92,5 +92,3 @@ Curtiu? Deixei um comentário. Até o próximo post.
 * [GROQ](https://console.groq.com/)
 * [NVIDIA Blog post](https://developer.nvidia.com/blog/advancing-the-accuracy-efficiency-frontier-with-llama-3-1-nemotron-51b)
 * [Reddit post](https://www.reddit.com/r/LocalLLaMA/comments/1fnp2kt/new_llama31nemotron51b_instruct_model_from_nvidia/)
-
-<!--@include: rodape.md-->

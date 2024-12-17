@@ -82,5 +82,3 @@ Apesar das semelhanças nos nomes, Groq e Grok são soluções de IA com propós
 -  https://groq.com/
 -  https://x.ai/
 -  https://getstream.io/blog/best-local-llm-tools/
-
-<!--@include: rodape.md-->

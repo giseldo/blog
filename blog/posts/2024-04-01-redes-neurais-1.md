@@ -78,5 +78,3 @@ Curtiu? Deixei um comentário. Até o próximo post.
 ## Referências
 
 [ai but simple Issue #1](https://www.aibutsimple.com/p/neural-networks-explained)
-
-<!--@include: rodape.md-->

@@ -41,5 +41,3 @@ No entanto, a questão levanta discussões sobre a ética no uso de inteligênci
 Este artigo também está publicado no  [medium](https://medium.com/@giseldoneo/fraude-acad%C3%AAmica-no-processo-de-avalia%C3%A7%C3%A3o-por-pares-5da8e09d839d).
 
 ---
-
-<!--@include: rodape.md-->
