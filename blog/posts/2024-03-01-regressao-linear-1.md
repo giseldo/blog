@@ -6,12 +6,8 @@ category: Documentação
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - regressão linear
-    - aprendizagem de máquina
+tags: regressão linear, aprendizagem de máquina
 ---
-
-<!--@include: cabecalho.md-->
 
 A Regressão linear é um método estatístico utilizado para avaliar a relação causal e quantitativa entre duas variáveis, chamada de variável dependente e variável independente, respectivamente. O modelo de regressão linear tem a seguinte forma: y = a + bx + e, onde y é a variável dependente, x é a variável independente, a é o intercepto, b é a reta inclinada e e é o erro. Com a regressão podemos encontrar um modelo matemático que melhor descreva a relação entre as variáveis (x) e (y).
 

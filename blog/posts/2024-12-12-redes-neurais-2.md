@@ -6,12 +6,8 @@ category: Documentação
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - redes neurais
-    - aprendizagem de máquina
+tags: redes neurais, aprendizagem de máquina
 ---
-
-<!--@include: cabecalho.md-->
 
 ## Introdução
 

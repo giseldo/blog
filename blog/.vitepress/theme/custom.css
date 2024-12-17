@@ -11,6 +11,7 @@ body {
 
 .vp-doc p {
     line-height: 32px;
+    margin: 32px 0;
 }
 
 .vp-doc [class*=language-] code {

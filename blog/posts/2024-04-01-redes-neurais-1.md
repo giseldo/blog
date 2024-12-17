@@ -6,12 +6,8 @@ category: Documentação
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - redes neurais 
-    - inteligência artificial
+tags: redes neurais, inteligência artificial
 ---
-
-<!--@include: cabecalho.md-->
 
 As **redes neurais** são utilizadas em diversas aplicações. De forma resumida elas são compostas por diversos nós interconectados e organizados em camadas. Elas funcionam como um meio de aprendizado a partir da análise de exemplos de treinamento, permitindo a realização de tarefas complexas. 
 

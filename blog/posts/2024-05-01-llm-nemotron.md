@@ -6,12 +6,8 @@ category: Artigo
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - LLM
-    - inteligência artificial
+tags: LLM, inteligência artificial
 ---
-
-<!--@include: cabecalho.md-->
 
 Em julho de 2024, a Meta lançou um modelo de linguagem (LLM) open-source, o _Llama-3.1-70B_. Um pouco depois, em setembro a empresa NVIDIA lançou um derivado deste, o _Llama 3.1-Nemotron-51B-Instruct_. E em outubro lançou finalmente um modelo de 70b, o _Llama 3.1 nemotron-70b-instruct_.
 

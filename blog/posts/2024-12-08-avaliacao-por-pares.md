@@ -6,11 +6,8 @@ category: Documentação
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - Metodologia Cietífica
+tags: Metodologia Cietífica
 ---
-
-<!--@include: cabecalho.md-->
 
 O processo de avaliação por pares (em inglês _peer review_) tem o objetivo de assegurar a qualidade, a precisão e a relevância dos trabalhos de pesquisa antes de serem divulgados à comunidade acadêmica. Mesmo com esse processo alguns pesquisadores ainda tentam [burlá-lo](./2024-12-13-fraudes-acadêmicas.md).
 

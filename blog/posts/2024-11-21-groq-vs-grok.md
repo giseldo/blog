@@ -6,11 +6,8 @@ category: Artigo
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - Large Language Models
+tags: Large Language Models
 ---
-
-<!--@include: cabecalho.md-->
 
 Groq e Grok são coisas distintas e desenvolvidas por empresas diferentes, com características e finalidades específicas
 Geralmente quando nos referimos ao [Groq](https://groq.com/) (com Q), estamos nos referindo a uma fornecedora de infraestrutura para inferência em modelos de LLM diversos.

@@ -6,11 +6,8 @@ category: Documentação
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - Aprendizagem de Máquina
+tags: Aprendizagem de Máquina
 ---
-
-<!--@include: cabecalho.md-->
 
 Em **aprendizagem de máquina**, heurísticas são métodos ou estratégias práticas utilizadas para simplificar problemas complexos, acelerar a convergência de algoritmos ou ajustar modelos de forma eficiente. Elas desempenham um papel crucial em situações onde soluções exatas seriam muito caras em termos computacionais ou inviáveis devido à incerteza e à natureza de grandes volumes de dados.
 

@@ -22,6 +22,7 @@ Acesse também o [Neo Cursos](https://giseldo.github.io/cursos/).
 ## Sobre
 
 Criado com [Vitpress](https://vitepress.dev/)
+Alteração do [CSS](https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/components/vp-doc.css)
 
 ## Author 
 

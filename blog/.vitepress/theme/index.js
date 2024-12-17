@@ -1,25 +1,20 @@
-import Layout from './Layout.vue'
-import Cabecalho from './Cabecalho.vue'
-import './custom.css'
-
 import DefaultTheme from 'vitepress/theme';
+import './custom.css'
 import 'viewerjs/dist/viewer.min.css';
+import './custom.css'
 import imageViewer from 'vitepress-plugin-image-viewer';
 import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 import { useRoute } from 'vitepress';
+// componentes Vue
+import Layout from './Layout.vue'
 import SimpleNewsletter from './components/SimpleNewsletter.vue'
 import Popup from './components/Popup.vue'
-
-import './custom.css'
-
 import { useNewsletterStore } from './store/NewsletterStore'
-
 import { createPinia } from 'pinia'
 const pinia = createPinia()
 
 export default {
     Layout,
-    Cabecalho,
     enhanceApp(ctx) {
         DefaultTheme.enhanceApp(ctx);
         // Register global components, if you don't want to use it, you don't need to add it

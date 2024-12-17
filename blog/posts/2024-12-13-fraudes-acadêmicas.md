@@ -6,11 +6,8 @@ category: Documentação
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags:
-    - Metodologia Científica
+tags: Metodologia Científica
 ---
-
-<!--@include: cabecalho.md-->
 
 ![capa do artigo](./2024-12-13-fraudes-acadêmicas/fraudecapa.webp)
 <div class="label_figura">

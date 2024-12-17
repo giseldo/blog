@@ -6,12 +6,8 @@ category: Notícias
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - Large Language Models
-    - Inteligência Artificial
+tags: Large Language Models, Inteligência Artificial
 ---
-
-<!--@include: cabecalho.md-->
 
 ## Amazon Dobra Investimento na Startup de IA Anthropic
 

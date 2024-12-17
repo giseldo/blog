@@ -7,6 +7,10 @@ hero:
   text: Inteligência artificial descomplicada
 
 features:
+  - title: Acesso via API a Modelos LLM
+    details: Acesso via API a Modelos LLM  
+    link: /posts/2024-12-17-LLM 
+    linkText: Leia mais
   - title: Fraudes Acadêmicas
     details: Fraudes Acadêmicas Desafios e Impactos na Integridade Científica
     link: /posts/2024-12-13-fraudes-acadêmicas

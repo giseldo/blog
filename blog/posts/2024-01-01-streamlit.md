@@ -6,13 +6,8 @@ category: Documentação
 author: Giseldo Neo
 sidebar: false
 aside: false
-tags: 
-    - Python
-    - StreamLit
-    - Web
+tags: Python, StreamLit, Web
 ---
-
-<!--@include: cabecalho.md-->
 
 O [Streamlit](https://streamlit.io/) é uma biblioteca de código aberto em Python que facilita a criação de aplicativos web interativos e de visualização de dados de forma rápida e simples. É amplamente utilizada por cientistas de dados, analistas e desenvolvedores que desejam transformar seus scripts de Python em aplicações web interativas sem a necessidade de conhecimentos avançados em desenvolvimento web.
 
