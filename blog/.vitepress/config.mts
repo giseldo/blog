@@ -2,7 +2,6 @@
 import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
 
-
 const vitePressOptions = {
     base: '/blog/',
     title: 'Neo Blog',

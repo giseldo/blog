@@ -7,6 +7,10 @@ hero:
   text: Inteligência artificial descomplicada
 
 features:
+  - title: IA News 20/12/2024
+    details: IA News 20/12/2024  
+    link: /posts/2024-12-20-ia-news 
+    linkText: Leia mais
   - title: Acesso via API a Modelos LLM
     details: Acesso via API a Modelos LLM  
     link: /posts/2024-12-17-LLM 
